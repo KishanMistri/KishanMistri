@@ -1,7 +1,7 @@
 ### Hi there, I'm Kishan Mistri 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-mistri/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://nirmabitkishan111.wordpress.com/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kishan-mistri.netlify.app/)
 
 ### Glad to see you here! 
 
