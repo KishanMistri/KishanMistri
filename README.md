@@ -17,8 +17,6 @@ He has been started his journey with Crest Data Systems (Ahmedabad, India) and t
 - 💬 Ask me about anything, I am happy to help.
 - 📝 I code on [Leetcode](https://leetcode.com/kmistri/)
 - 📫 How to reach me: kishan.mistri.111@gmail.com
-- 📝 [Resume](https://drive.google.com/drive/u/0/folders/)
+- 📝 [Resume](https://drive.google.com/file/d/1etaCwOFlTbQS2Ko21aaokjFZhpjb9ODJ/view?usp=sharing)
 
 </br>
-
-Credits for profile template: [cnkyrpsgl](https://github.com/cnkyrpsgl)
