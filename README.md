@@ -5,10 +5,9 @@
 
 ### Glad to see you here! 
 
-Kishan is a self-motivated, self-taught, and easygoing person fascinated by technological trends & big ideas & exciting to be doing the next project to apply and to experiment with things he learnt.
+Kishan Mistri is an experienced DevOps Engineer at Oracle, India with 4+ years of professional experience in the Big Data Analytics technological setting. His experience route includes mix of working as SRE , Consultant, Splunk Admin to DevOps Engineer and automating system processes. He is currently working on his transition to Data Science problem domain. 
 
-When he indulges into new stream of tech, he tries to absorb mostly used concepts and its application in real life. When it is for framework, he tries to get the most out of it by reading documentation along with pet project of expermentation. He likes to continue learning by doing side projects for solving a problem by using that technology. 
-He has been started his journey with Crest Data Systems (Ahmedabad, India) and then switched to Oracle India Pvt Ltd (Bangalore, India) for further growth. In essence, his passion and joy along the journey brought him to industry. He is currently learning AI & ML and growing further. Thanks for reading Kmistri's intro. 
+He is a self-motivated, self-taught, and easygoing person fascinated by technology trends. When he indulges into new component of tech, he tries to absorb concepts and its application in real life. When it comes to framework, he tries to get the most out of it by creating pet project. He likes to continue learning by doing and integrating side projects for solving a problem. Thanks for reading Kmistri's intro. 
 
 **Talking about Personal Stuffs:**
 
