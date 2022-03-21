@@ -1,7 +1,12 @@
-### Hi there, I'm Kishan Mistri 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+## Hi 👋, I'm Kishan Mistri
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-mistri/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kishan-mistri.netlify.app/)
+
 
 ### Glad to see you here! 
 
@@ -18,4 +23,11 @@ He is a self-motivated, self-taught, and easygoing person fascinated by technolo
 - 📫 How to reach me: [![GMAIL](https://img.shields.io/badge/-GMAIL-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:kishan.mistri.111@gmail.com?subject=[GitHub]%20<SUBJECT>)
 - 📝 [Resume](https://drive.google.com/file/d/1etaCwOFlTbQS2Ko21aaokjFZhpjb9ODJ/view?usp=sharing)  [Might be little out-dated]
 
-</br>
+
+**My github stats:**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KishanMistri&show_icons=true&locale=en&layout=compact" alt="kmistri" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KishanMistri&show_icons=true&locale=en" alt="kmistri" /></p>
+
+
+<h3 align="left">Don't forget to have fun! </h3>
