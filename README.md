@@ -12,7 +12,7 @@
 
 Kishan Mistri is an experienced DevOps Engineer at Oracle, India with 4+ years of professional experience in the Big Data technological and Data Analytics setting. His experience route includes variety of responsibilities as a SRE , a Consultant, a Splunk Admin to a DevOps Engineer and automating system processes. He is currently working on his transition to Data Science domain and doing the Post Grad Diploma in Applied Machine Learning with University of Hydrabad.
 
-He is a self-motivated, knowledgable (guided by the ton of people that I admire), and easygoing person fascinated by technology trends. When he indulges into new component of tech, he tries to absorb concepts and its application in real life. When it comes to framework, he tries to get the most out of it by creating pet project. He likes to continue learning by doing and integrating side projects for solving a problem. Thanks for reading Kmistri's intro. 
+He is a self-motivated, knowledgable (guided by the ton of people that I admire), and easygoing person fascinated by technology trends. When he indulges into new component of tech, he tries to absorb concepts and its application in real life. When it comes to framework, he tries to get the most out of it by creating pet project. He likes to continue learning by doing and integrating side projects for solving a problem. 
 
 **Talking about Personal Stuffs:**
 
