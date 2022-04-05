@@ -21,7 +21,7 @@ He is self-motivated, knowledgable (guided by the ton of people that I admire), 
 - 💬 I am happy to help. Ask me about anything.
 - 📝 I started coding on [HackerEarth](https://www.hackerearth.com/@14bit029) & [HackerRank](https://www.hackerrank.com/14bit029), but now I shifted coding on [Leetcode](https://leetcode.com/kmistri/)
 - 📫 How to reach me: [![GMAIL](https://img.shields.io/badge/-GMAIL-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:kishan.mistri.111@gmail.com?subject=[GitHub]%20<SUBJECT>)
-- 📝 [Resume](https://drive.google.com/file/d/1etaCwOFlTbQS2Ko21aaokjFZhpjb9ODJ/view?usp=sharing)  [Might be little out-dated]
+- 📝 [Resume](https://drive.google.com/file/d/1etaCwOFlTbQS2Ko21aaokjFZhpjb9ODJ/view?usp=sharing)  [Updated: April 1st, 2022]
 
 
 **My github stats:**
