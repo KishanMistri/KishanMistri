@@ -10,9 +10,9 @@
 
 ### Glad to see you here! 
 
-My recent working experience was as a DevOps Engineer at Oracle, India with a total of 4+ years of professional experience in the Big Data technological and Data Analytics setting. My experience route includes a variety of roles and responsibilities such as an SRE, a Splunk Admin and Consultant to a DevOps Engineer, and automating system processes. I am currently working on his transition to the Data Science domain and doing the Post Grad Diploma in Applied Machine Learning with the University of Hyderabad.
+My recent working experience was as a DevOps Engineer at Oracle, India with a total of 4+ years of professional experience in the Big Data technology and Data Analytics setting. My experience route includes a variety of roles and responsibilities such as an SRE, a Splunk Admin and Consultant to a DevOps Engineer, and automating system processes. I am currently working on my transition to the Data Science domain and doing the Post Grad Diploma in Applied Machine Learning with the University of Hyderabad.
 
-I am self-motivated, knowledgable (guided by the ton of people that I admire), and an easygoing person fascinated by technology trends. When I indulges in a new tool or technique, I tries to absorb concepts and their application in real life. I also tries to create or integrate a pet project. I likes to continue learning by doing and integrating side projects for solving a problem.
+I am self-motivated, knowledgable (guided by the ton of people that I admire), and an easygoing person fascinated by technology trends. When I indulges in a new tool or technique, I try to absorb concepts and their application in real life. I also try to create or integrate a pet project. I likes to continue learning by doing( or integrating) side projects for solving a problem.
 
 **Talking about Personal Stuffs:**
 
