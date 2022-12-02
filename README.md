@@ -14,6 +14,7 @@ My recent working experience was as a DevOps Engineer at Oracle, India with a to
 
 - 💬 I am happy to help. Ask me about anything.
 - 📝 I started coding on [HackerEarth](https://www.hackerearth.com/@14bit029) & [HackerRank](https://www.hackerrank.com/14bit029), but now I shifted coding on [Leetcode](https://leetcode.com/kmistri/)
+- 📝 My Data Science Profile on [DataCamp](https://www.datacamp.com/profile/kmistri)
 - 📫 How to reach me: [![GMAIL](https://img.shields.io/badge/-GMAIL-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:kishan.mistri.111@gmail.com?subject=[GitHub]%20<SUBJECT>)
 
 **My github stats:**
