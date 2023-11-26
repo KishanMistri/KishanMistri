@@ -10,7 +10,7 @@
 
 ### Glad to see you here! 
 
-My recent working experience was as a Senior DevOps Engineer at Zetapp (Previously Known as Onecode) in Bangalore, India with a total of 5+ years of professional experience in the Big Data technological and Data Analytics setting. My software engineering experience route includes a variety of roles & responsibilities such as an SRE, a Splunk Admin and a Consultant to a DevOps Engineer and automating system processes. I have also done the Post Graduate Diploma in Applied Machine Learning with the University of Hyderabad to transition into the Data Science domain.
+I am currently working as a Senior DevOps Engineer at Zetapp (Previously Known as Onecode) in Bangalore, India with a total of 5+ years of professional experience in the Big Data technological and Data Analytics setting. My software engineering experience route includes a variety of roles & responsibilities such as an SRE, a Splunk Admin and a Consultant to a DevOps Engineer and automating system processes. I have also done the Post Graduate Diploma in Applied Machine Learning with the University of Hyderabad to transition into the Data Science domain.
 
 - 💬 I am happy to help. Ask me about anything.
 - 📝 I started coding on [HackerEarth](https://www.hackerearth.com/@14bit029) & [HackerRank](https://www.hackerrank.com/14bit029), but now I shifted coding on [Leetcode](https://leetcode.com/kmistri/)
